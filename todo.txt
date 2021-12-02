@@ -1,0 +1,9 @@
+Arsalan, 10:38 PM
+following are the requirements for the nft project we previously discussed: 
+
+Token name: ELU
+Token Symbol: ELU
+Token Quantity: 7K
+Legendary Pre-Sale: 500 / (0.04)
+Whitelist Pre-Sale: 1000  / (0.06)
+Public Sale:    / (0.08)
