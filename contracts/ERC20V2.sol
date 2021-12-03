@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/utils/Address.sol";
 
 import "hardhat/console.sol";
 
-contract ERC20V1 is ERC20 {
+contract ERC20V2 is ERC20 {
   
     constructor(address contractAddress) ERC20("Creative creation","CTT"){
     require(Address.isContract(contractAddress),"This is not an ICO Contract address");
